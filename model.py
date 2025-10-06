@@ -121,7 +121,7 @@ validation_generator = validation_datagen.flow_from_directory(
 )
 
 # Define all the paramters that will be used for building and training the model.
-EPOCHS_NUM = 15
+EPOCHS_NUM = 20
 CLASSES_NUM = train_generator.num_classes
 LEARNING_RATE = 1e-4
 # Sets mixed_precision to mixed_float16 to improve training speed.
