@@ -1,0 +1,1081 @@
+filename,answer,prediction,max_probability,score
+Abyssinian\Abyssinian_106.jpg,0,0,1.0,1
+Abyssinian\Abyssinian_107.jpg,0,0,0.995,1
+Abyssinian\Abyssinian_119.jpg,0,0,0.9956,1
+Abyssinian\Abyssinian_123.jpg,0,0,0.9976,1
+Abyssinian\Abyssinian_129.jpg,0,0,0.9355,1
+Abyssinian\Abyssinian_13.jpg,0,0,0.9985,1
+Abyssinian\Abyssinian_131.jpg,0,0,0.996,1
+Abyssinian\Abyssinian_147.jpg,0,0,0.5454,1
+Abyssinian\Abyssinian_149.jpg,0,0,0.9995,1
+Abyssinian\Abyssinian_153.jpg,0,0,0.4412,1
+Abyssinian\Abyssinian_175.jpg,0,17,0.9907,0
+Abyssinian\Abyssinian_178.jpg,0,8,0.529,0
+Abyssinian\Abyssinian_19.jpg,0,3,0.528,0
+Abyssinian\Abyssinian_191.jpg,0,0,0.9995,1
+Abyssinian\Abyssinian_193.jpg,0,0,0.9824,1
+Abyssinian\Abyssinian_212.jpg,0,0,0.9673,1
+Abyssinian\Abyssinian_220.jpg,0,0,0.9365,1
+Abyssinian\Abyssinian_23.jpg,0,0,0.999,1
+Abyssinian\Abyssinian_240.jpg,0,0,0.506,1
+Abyssinian\Abyssinian_242.jpg,0,4,0.463,0
+Abyssinian\Abyssinian_243.jpg,0,0,0.9995,1
+Abyssinian\Abyssinian_252.jpg,0,0,0.6724,1
+Abyssinian\Abyssinian_26.jpg,0,0,0.99,1
+Abyssinian\Abyssinian_261.jpg,0,0,0.999,1
+Abyssinian\Abyssinian_265.jpg,0,0,1.0,1
+Abyssinian\Abyssinian_267.jpg,0,0,1.0,1
+Abyssinian\Abyssinian_268.jpg,0,0,0.9756,1
+Abyssinian\Abyssinian_276.jpg,0,0,0.9995,1
+Abyssinian\Abyssinian_28.jpg,0,0,0.986,1
+Abyssinian\Abyssinian_283.jpg,0,0,0.9907,1
+Abyssinian\Abyssinian_285.jpg,0,18,0.8647,0
+Abyssinian\Abyssinian_287.jpg,0,0,0.994,1
+Abyssinian\Abyssinian_295.jpg,0,0,0.802,1
+Abyssinian\Abyssinian_307.jpg,0,0,0.664,1
+Abyssinian\Abyssinian_31.jpg,0,0,0.841,1
+Abyssinian\Abyssinian_310.jpg,0,18,0.2954,0
+Abyssinian\Abyssinian_331.jpg,0,0,1.0,1
+Abyssinian\Abyssinian_341.jpg,0,0,0.981,1
+Abyssinian\Abyssinian_345.jpg,0,0,0.9985,1
+Abyssinian\Abyssinian_36.jpg,0,0,0.727,1
+Abyssinian\Abyssinian_46.jpg,0,0,0.999,1
+Abyssinian\Abyssinian_47.jpg,0,3,0.818,0
+Abyssinian\Abyssinian_5.jpg,0,0,0.9995,1
+Abyssinian\Abyssinian_53.jpg,0,8,0.8247,0
+Abyssinian\Abyssinian_55.jpg,0,0,0.9995,1
+Abyssinian\Abyssinian_56.jpg,0,0,0.999,1
+Abyssinian\Abyssinian_58.jpg,0,0,1.0,1
+Abyssinian\Abyssinian_61.jpg,0,0,1.0,1
+Abyssinian\Abyssinian_62.jpg,0,0,1.0,1
+Abyssinian\Abyssinian_69.jpg,0,0,1.0,1
+Abyssinian\Abyssinian_77.jpg,0,0,0.99,1
+Abyssinian\Abyssinian_79.jpg,0,8,0.5127,0
+Abyssinian\Abyssinian_87.jpg,0,0,0.994,1
+Abyssinian\Abyssinian_91.jpg,0,0,0.997,1
+American Bobtail\American Bobtail_106.jpg,1,1,0.907,1
+American Bobtail\American Bobtail_107.jpg,1,1,0.7485,1
+American Bobtail\American Bobtail_119.jpg,1,1,0.9395,1
+American Bobtail\American Bobtail_123.jpg,1,1,0.743,1
+American Bobtail\American Bobtail_129.jpg,1,1,0.632,1
+American Bobtail\American Bobtail_13.jpg,1,15,0.911,0
+American Bobtail\American Bobtail_131.jpg,1,1,0.6304,1
+American Bobtail\American Bobtail_147.jpg,1,1,0.959,1
+American Bobtail\American Bobtail_149.jpg,1,1,0.5933,1
+American Bobtail\American Bobtail_153.jpg,1,1,0.73,1
+American Bobtail\American Bobtail_175.jpg,1,4,0.6816,0
+American Bobtail\American Bobtail_178.jpg,1,6,0.999,0
+American Bobtail\American Bobtail_19.jpg,1,1,0.989,1
+American Bobtail\American Bobtail_191.jpg,1,10,0.801,0
+American Bobtail\American Bobtail_193.jpg,1,11,0.436,0
+American Bobtail\American Bobtail_212.jpg,1,1,0.9917,1
+American Bobtail\American Bobtail_220.jpg,1,8,0.4111,0
+American Bobtail\American Bobtail_23.jpg,1,1,0.767,1
+American Bobtail\American Bobtail_240.jpg,1,1,0.9873,1
+American Bobtail\American Bobtail_242.jpg,1,1,0.7437,1
+American Bobtail\American Bobtail_243.jpg,1,19,0.636,0
+American Bobtail\American Bobtail_252.jpg,1,19,0.9917,0
+American Bobtail\American Bobtail_26.jpg,1,8,0.981,0
+American Bobtail\American Bobtail_261.jpg,1,3,0.86,0
+American Bobtail\American Bobtail_265.jpg,1,11,0.3289,0
+American Bobtail\American Bobtail_267.jpg,1,10,0.8037,0
+American Bobtail\American Bobtail_268.jpg,1,1,0.975,1
+American Bobtail\American Bobtail_276.jpg,1,1,0.464,1
+American Bobtail\American Bobtail_28.jpg,1,15,0.7183,0
+American Bobtail\American Bobtail_283.jpg,1,8,0.4778,0
+American Bobtail\American Bobtail_285.jpg,1,1,0.5713,1
+American Bobtail\American Bobtail_287.jpg,1,1,0.942,1
+American Bobtail\American Bobtail_295.jpg,1,0,0.43,0
+American Bobtail\American Bobtail_307.jpg,1,1,0.9507,1
+American Bobtail\American Bobtail_31.jpg,1,10,0.9595,0
+American Bobtail\American Bobtail_310.jpg,1,6,0.9985,0
+American Bobtail\American Bobtail_331.jpg,1,7,0.994,0
+American Bobtail\American Bobtail_341.jpg,1,4,0.849,0
+American Bobtail\American Bobtail_345.jpg,1,2,0.526,0
+American Bobtail\American Bobtail_36.jpg,1,19,0.8574,0
+American Bobtail\American Bobtail_46.jpg,1,1,0.563,1
+American Bobtail\American Bobtail_47.jpg,1,1,0.477,1
+American Bobtail\American Bobtail_5.jpg,1,6,0.915,0
+American Bobtail\American Bobtail_53.jpg,1,8,0.959,0
+American Bobtail\American Bobtail_55.jpg,1,1,0.983,1
+American Bobtail\American Bobtail_56.jpg,1,11,0.9526,0
+American Bobtail\American Bobtail_58.jpg,1,11,0.768,0
+American Bobtail\American Bobtail_61.jpg,1,8,0.5273,0
+American Bobtail\American Bobtail_62.jpg,1,1,0.6885,1
+American Bobtail\American Bobtail_69.jpg,1,1,0.6636,1
+American Bobtail\American Bobtail_77.jpg,1,1,0.68,1
+American Bobtail\American Bobtail_79.jpg,1,1,0.9995,1
+American Bobtail\American Bobtail_87.jpg,1,11,0.8975,0
+American Bobtail\American Bobtail_91.jpg,1,3,0.664,0
+American Curl\American Curl_106.jpg,2,2,1.0,1
+American Curl\American Curl_107.jpg,2,8,0.367,0
+American Curl\American Curl_119.jpg,2,2,0.9966,1
+American Curl\American Curl_123.jpg,2,2,0.638,1
+American Curl\American Curl_129.jpg,2,2,1.0,1
+American Curl\American Curl_13.jpg,2,2,0.9487,1
+American Curl\American Curl_131.jpg,2,2,1.0,1
+American Curl\American Curl_147.jpg,2,2,0.9434,1
+American Curl\American Curl_149.jpg,2,2,0.998,1
+American Curl\American Curl_153.jpg,2,2,1.0,1
+American Curl\American Curl_175.jpg,2,2,0.9556,1
+American Curl\American Curl_178.jpg,2,2,0.8125,1
+American Curl\American Curl_19.jpg,2,2,0.965,1
+American Curl\American Curl_191.jpg,2,2,1.0,1
+American Curl\American Curl_193.jpg,2,2,0.963,1
+American Curl\American Curl_212.jpg,2,2,0.9995,1
+American Curl\American Curl_220.jpg,2,2,0.9966,1
+American Curl\American Curl_23.jpg,2,2,0.9995,1
+American Curl\American Curl_240.jpg,2,2,0.9585,1
+American Curl\American Curl_242.jpg,2,0,0.592,0
+American Curl\American Curl_243.jpg,2,2,1.0,1
+American Curl\American Curl_252.jpg,2,2,1.0,1
+American Curl\American Curl_26.jpg,2,2,0.9688,1
+American Curl\American Curl_261.jpg,2,2,0.924,1
+American Curl\American Curl_265.jpg,2,2,1.0,1
+American Curl\American Curl_267.jpg,2,11,0.9287,0
+American Curl\American Curl_268.jpg,2,16,0.722,0
+American Curl\American Curl_276.jpg,2,2,0.8677,1
+American Curl\American Curl_28.jpg,2,2,0.777,1
+American Curl\American Curl_283.jpg,2,11,0.809,0
+American Curl\American Curl_285.jpg,2,2,1.0,1
+American Curl\American Curl_287.jpg,2,2,1.0,1
+American Curl\American Curl_295.jpg,2,11,0.593,0
+American Curl\American Curl_307.jpg,2,2,0.997,1
+American Curl\American Curl_31.jpg,2,11,1.0,0
+American Curl\American Curl_310.jpg,2,2,0.9995,1
+American Curl\American Curl_331.jpg,2,2,0.9995,1
+American Curl\American Curl_341.jpg,2,2,1.0,1
+American Curl\American Curl_345.jpg,2,2,0.9995,1
+American Curl\American Curl_36.jpg,2,2,0.997,1
+American Curl\American Curl_46.jpg,2,2,0.9956,1
+American Curl\American Curl_47.jpg,2,2,0.995,1
+American Curl\American Curl_5.jpg,2,2,0.977,1
+American Curl\American Curl_53.jpg,2,2,0.491,1
+American Curl\American Curl_55.jpg,2,2,0.9985,1
+American Curl\American Curl_56.jpg,2,2,0.9956,1
+American Curl\American Curl_58.jpg,2,2,0.996,1
+American Curl\American Curl_61.jpg,2,2,0.9746,1
+American Curl\American Curl_62.jpg,2,2,1.0,1
+American Curl\American Curl_69.jpg,2,2,1.0,1
+American Curl\American Curl_77.jpg,2,2,0.954,1
+American Curl\American Curl_79.jpg,2,12,0.579,0
+American Curl\American Curl_87.jpg,2,2,1.0,1
+American Curl\American Curl_91.jpg,2,2,0.7803,1
+American Shorthair\American Shorthair_106.jpg,3,0,0.7583,0
+American Shorthair\American Shorthair_107.jpg,3,11,0.961,0
+American Shorthair\American Shorthair_119.jpg,3,8,0.5005,0
+American Shorthair\American Shorthair_123.jpg,3,6,0.4893,0
+American Shorthair\American Shorthair_129.jpg,3,7,0.398,0
+American Shorthair\American Shorthair_13.jpg,3,3,0.3853,1
+American Shorthair\American Shorthair_131.jpg,3,10,0.3499,0
+American Shorthair\American Shorthair_147.jpg,3,3,0.6855,1
+American Shorthair\American Shorthair_149.jpg,3,3,0.4824,1
+American Shorthair\American Shorthair_153.jpg,3,3,0.733,1
+American Shorthair\American Shorthair_175.jpg,3,8,0.6113,0
+American Shorthair\American Shorthair_178.jpg,3,0,0.347,0
+American Shorthair\American Shorthair_19.jpg,3,2,0.867,0
+American Shorthair\American Shorthair_191.jpg,3,8,0.9756,0
+American Shorthair\American Shorthair_193.jpg,3,3,0.561,1
+American Shorthair\American Shorthair_212.jpg,3,3,0.7305,1
+American Shorthair\American Shorthair_220.jpg,3,3,0.72,1
+American Shorthair\American Shorthair_23.jpg,3,11,0.387,0
+American Shorthair\American Shorthair_240.jpg,3,8,0.6685,0
+American Shorthair\American Shorthair_242.jpg,3,1,0.859,0
+American Shorthair\American Shorthair_243.jpg,3,2,0.3586,0
+American Shorthair\American Shorthair_252.jpg,3,3,0.4583,1
+American Shorthair\American Shorthair_26.jpg,3,3,0.911,1
+American Shorthair\American Shorthair_261.jpg,3,11,0.6543,0
+American Shorthair\American Shorthair_265.jpg,3,0,0.4414,0
+American Shorthair\American Shorthair_267.jpg,3,8,0.5854,0
+American Shorthair\American Shorthair_268.jpg,3,8,0.611,0
+American Shorthair\American Shorthair_276.jpg,3,3,0.829,1
+American Shorthair\American Shorthair_28.jpg,3,3,0.862,1
+American Shorthair\American Shorthair_283.jpg,3,3,0.4868,1
+American Shorthair\American Shorthair_285.jpg,3,0,0.7344,0
+American Shorthair\American Shorthair_287.jpg,3,8,0.9375,0
+American Shorthair\American Shorthair_295.jpg,3,3,0.771,1
+American Shorthair\American Shorthair_307.jpg,3,11,0.77,0
+American Shorthair\American Shorthair_31.jpg,3,3,0.888,1
+American Shorthair\American Shorthair_310.jpg,3,2,0.617,0
+American Shorthair\American Shorthair_331.jpg,3,0,0.5386,0
+American Shorthair\American Shorthair_341.jpg,3,1,0.498,0
+American Shorthair\American Shorthair_345.jpg,3,8,0.9985,0
+American Shorthair\American Shorthair_36.jpg,3,3,0.715,1
+American Shorthair\American Shorthair_46.jpg,3,3,0.6533,1
+American Shorthair\American Shorthair_47.jpg,3,10,0.948,0
+American Shorthair\American Shorthair_5.jpg,3,3,0.8496,1
+American Shorthair\American Shorthair_53.jpg,3,8,0.8047,0
+American Shorthair\American Shorthair_55.jpg,3,7,0.4548,0
+American Shorthair\American Shorthair_56.jpg,3,3,0.94,1
+American Shorthair\American Shorthair_58.jpg,3,3,0.9795,1
+American Shorthair\American Shorthair_61.jpg,3,3,0.3523,1
+American Shorthair\American Shorthair_62.jpg,3,3,0.947,1
+American Shorthair\American Shorthair_69.jpg,3,8,0.5693,0
+American Shorthair\American Shorthair_77.jpg,3,3,0.987,1
+American Shorthair\American Shorthair_79.jpg,3,8,0.981,0
+American Shorthair\American Shorthair_87.jpg,3,3,0.989,1
+American Shorthair\American Shorthair_91.jpg,3,8,0.6924,0
+Bengal\Bengal_106.jpg,4,4,0.882,1
+Bengal\Bengal_107.jpg,4,4,0.994,1
+Bengal\Bengal_119.jpg,4,8,0.9756,0
+Bengal\Bengal_123.jpg,4,4,0.998,1
+Bengal\Bengal_129.jpg,4,4,0.952,1
+Bengal\Bengal_13.jpg,4,4,0.5864,1
+Bengal\Bengal_131.jpg,4,4,0.9976,1
+Bengal\Bengal_147.jpg,4,4,0.96,1
+Bengal\Bengal_149.jpg,4,4,0.9434,1
+Bengal\Bengal_153.jpg,4,4,0.9985,1
+Bengal\Bengal_175.jpg,4,4,0.926,1
+Bengal\Bengal_178.jpg,4,4,0.643,1
+Bengal\Bengal_19.jpg,4,4,0.989,1
+Bengal\Bengal_191.jpg,4,4,0.4348,1
+Bengal\Bengal_193.jpg,4,4,0.5586,1
+Bengal\Bengal_212.jpg,4,8,0.9043,0
+Bengal\Bengal_220.jpg,4,4,0.998,1
+Bengal\Bengal_23.jpg,4,4,0.9614,1
+Bengal\Bengal_240.jpg,4,11,0.5093,0
+Bengal\Bengal_242.jpg,4,3,0.674,0
+Bengal\Bengal_243.jpg,4,4,1.0,1
+Bengal\Bengal_252.jpg,4,4,0.5337,1
+Bengal\Bengal_26.jpg,4,4,0.909,1
+Bengal\Bengal_261.jpg,4,4,0.608,1
+Bengal\Bengal_265.jpg,4,4,0.9634,1
+Bengal\Bengal_267.jpg,4,8,0.515,0
+Bengal\Bengal_268.jpg,4,10,0.779,0
+Bengal\Bengal_276.jpg,4,4,0.999,1
+Bengal\Bengal_28.jpg,4,11,0.883,0
+Bengal\Bengal_283.jpg,4,8,0.8525,0
+Bengal\Bengal_285.jpg,4,4,0.9893,1
+Bengal\Bengal_287.jpg,4,4,0.9946,1
+Bengal\Bengal_295.jpg,4,4,0.5444,1
+Bengal\Bengal_307.jpg,4,1,0.7876,0
+Bengal\Bengal_31.jpg,4,4,0.9995,1
+Bengal\Bengal_310.jpg,4,4,0.9985,1
+Bengal\Bengal_331.jpg,4,4,0.993,1
+Bengal\Bengal_341.jpg,4,8,0.5176,0
+Bengal\Bengal_345.jpg,4,4,0.6895,1
+Bengal\Bengal_36.jpg,4,4,0.962,1
+Bengal\Bengal_46.jpg,4,4,0.887,1
+Bengal\Bengal_47.jpg,4,4,1.0,1
+Bengal\Bengal_5.jpg,4,4,0.975,1
+Bengal\Bengal_53.jpg,4,4,0.9746,1
+Bengal\Bengal_55.jpg,4,4,0.993,1
+Bengal\Bengal_56.jpg,4,4,0.6235,1
+Bengal\Bengal_58.jpg,4,8,0.6084,0
+Bengal\Bengal_61.jpg,4,4,0.978,1
+Bengal\Bengal_62.jpg,4,4,0.948,1
+Bengal\Bengal_69.jpg,4,0,0.9795,0
+Bengal\Bengal_77.jpg,4,4,0.9995,1
+Bengal\Bengal_79.jpg,4,4,0.447,1
+Bengal\Bengal_87.jpg,4,4,0.9756,1
+Bengal\Bengal_91.jpg,4,4,0.98,1
+Birman\Birman_106.jpg,5,5,1.0,1
+Birman\Birman_107.jpg,5,7,0.3923,0
+Birman\Birman_119.jpg,5,14,0.507,0
+Birman\Birman_123.jpg,5,5,0.7676,1
+Birman\Birman_129.jpg,5,14,0.762,0
+Birman\Birman_13.jpg,5,5,0.801,1
+Birman\Birman_131.jpg,5,5,0.995,1
+Birman\Birman_147.jpg,5,5,0.991,1
+Birman\Birman_149.jpg,5,5,0.718,1
+Birman\Birman_153.jpg,5,5,0.9395,1
+Birman\Birman_175.jpg,5,14,0.721,0
+Birman\Birman_178.jpg,5,5,0.885,1
+Birman\Birman_19.jpg,5,5,0.9404,1
+Birman\Birman_191.jpg,5,5,0.998,1
+Birman\Birman_193.jpg,5,5,0.982,1
+Birman\Birman_212.jpg,5,19,0.976,0
+Birman\Birman_220.jpg,5,5,0.996,1
+Birman\Birman_23.jpg,5,14,0.88,0
+Birman\Birman_240.jpg,5,5,0.979,1
+Birman\Birman_242.jpg,5,5,0.9727,1
+Birman\Birman_243.jpg,5,5,0.8135,1
+Birman\Birman_252.jpg,5,5,0.96,1
+Birman\Birman_26.jpg,5,5,0.5205,1
+Birman\Birman_261.jpg,5,5,0.8716,1
+Birman\Birman_265.jpg,5,5,0.767,1
+Birman\Birman_267.jpg,5,5,0.9946,1
+Birman\Birman_268.jpg,5,5,0.9995,1
+Birman\Birman_276.jpg,5,5,0.939,1
+Birman\Birman_28.jpg,5,5,0.9653,1
+Birman\Birman_283.jpg,5,5,0.997,1
+Birman\Birman_285.jpg,5,5,0.987,1
+Birman\Birman_287.jpg,5,14,0.9375,0
+Birman\Birman_295.jpg,5,5,0.952,1
+Birman\Birman_307.jpg,5,5,0.7783,1
+Birman\Birman_31.jpg,5,12,0.743,0
+Birman\Birman_310.jpg,5,5,0.954,1
+Birman\Birman_331.jpg,5,5,0.9995,1
+Birman\Birman_341.jpg,5,14,0.8394,0
+Birman\Birman_345.jpg,5,5,0.9746,1
+Birman\Birman_36.jpg,5,5,0.7646,1
+Birman\Birman_46.jpg,5,5,1.0,1
+Birman\Birman_47.jpg,5,14,0.969,0
+Birman\Birman_5.jpg,5,5,0.996,1
+Birman\Birman_53.jpg,5,5,0.5166,1
+Birman\Birman_55.jpg,5,14,0.983,0
+Birman\Birman_56.jpg,5,5,0.9966,1
+Birman\Birman_58.jpg,5,5,0.872,1
+Birman\Birman_61.jpg,5,5,1.0,1
+Birman\Birman_62.jpg,5,5,0.971,1
+Birman\Birman_69.jpg,5,14,0.6406,0
+Birman\Birman_77.jpg,5,14,0.9585,0
+Birman\Birman_79.jpg,5,13,0.427,0
+Birman\Birman_87.jpg,5,5,0.967,1
+Birman\Birman_91.jpg,5,5,0.942,1
+Bombay\Bombay_106.jpg,6,6,0.973,1
+Bombay\Bombay_107.jpg,6,6,0.9995,1
+Bombay\Bombay_119.jpg,6,6,0.994,1
+Bombay\Bombay_123.jpg,6,6,0.9165,1
+Bombay\Bombay_129.jpg,6,6,0.9995,1
+Bombay\Bombay_13.jpg,6,6,0.9976,1
+Bombay\Bombay_131.jpg,6,6,0.997,1
+Bombay\Bombay_147.jpg,6,6,0.9976,1
+Bombay\Bombay_149.jpg,6,15,0.94,0
+Bombay\Bombay_153.jpg,6,6,0.707,1
+Bombay\Bombay_175.jpg,6,6,0.993,1
+Bombay\Bombay_178.jpg,6,6,0.997,1
+Bombay\Bombay_19.jpg,6,6,0.8506,1
+Bombay\Bombay_191.jpg,6,6,0.998,1
+Bombay\Bombay_193.jpg,6,6,0.91,1
+Bombay\Bombay_212.jpg,6,6,0.9756,1
+Bombay\Bombay_220.jpg,6,6,0.9946,1
+Bombay\Bombay_23.jpg,6,11,0.993,0
+Bombay\Bombay_240.jpg,6,6,0.9956,1
+Bombay\Bombay_242.jpg,6,1,0.994,0
+Bombay\Bombay_243.jpg,6,6,0.9585,1
+Bombay\Bombay_252.jpg,6,15,0.617,0
+Bombay\Bombay_26.jpg,6,6,1.0,1
+Bombay\Bombay_261.jpg,6,6,1.0,1
+Bombay\Bombay_265.jpg,6,6,0.9995,1
+Bombay\Bombay_267.jpg,6,6,0.9937,1
+Bombay\Bombay_268.jpg,6,6,0.9834,1
+Bombay\Bombay_276.jpg,6,11,0.9985,0
+Bombay\Bombay_28.jpg,6,6,0.9976,1
+Bombay\Bombay_283.jpg,6,6,0.9956,1
+Bombay\Bombay_285.jpg,6,6,0.997,1
+Bombay\Bombay_287.jpg,6,6,1.0,1
+Bombay\Bombay_295.jpg,6,6,0.9185,1
+Bombay\Bombay_307.jpg,6,6,0.999,1
+Bombay\Bombay_31.jpg,6,6,0.999,1
+Bombay\Bombay_310.jpg,6,6,0.99,1
+Bombay\Bombay_331.jpg,6,1,0.79,0
+Bombay\Bombay_341.jpg,6,1,0.554,0
+Bombay\Bombay_345.jpg,6,6,0.953,1
+Bombay\Bombay_36.jpg,6,6,0.9995,1
+Bombay\Bombay_46.jpg,6,6,0.994,1
+Bombay\Bombay_47.jpg,6,6,0.9995,1
+Bombay\Bombay_5.jpg,6,6,0.932,1
+Bombay\Bombay_53.jpg,6,6,0.996,1
+Bombay\Bombay_55.jpg,6,6,0.986,1
+Bombay\Bombay_56.jpg,6,6,0.942,1
+Bombay\Bombay_58.jpg,6,6,1.0,1
+Bombay\Bombay_61.jpg,6,6,0.8774,1
+Bombay\Bombay_62.jpg,6,6,0.999,1
+Bombay\Bombay_69.jpg,6,6,0.387,1
+Bombay\Bombay_77.jpg,6,6,0.6274,1
+Bombay\Bombay_79.jpg,6,6,0.998,1
+Bombay\Bombay_87.jpg,6,6,0.9995,1
+Bombay\Bombay_91.jpg,6,6,1.0,1
+British Shorthair\British Shorthair_106.jpg,7,7,1.0,1
+British Shorthair\British Shorthair_107.jpg,7,11,0.7544,0
+British Shorthair\British Shorthair_119.jpg,7,4,0.7188,0
+British Shorthair\British Shorthair_123.jpg,7,8,0.7397,0
+British Shorthair\British Shorthair_129.jpg,7,7,0.6953,1
+British Shorthair\British Shorthair_13.jpg,7,13,0.54,0
+British Shorthair\British Shorthair_131.jpg,7,3,0.4883,0
+British Shorthair\British Shorthair_147.jpg,7,3,0.368,0
+British Shorthair\British Shorthair_149.jpg,7,1,0.5776,0
+British Shorthair\British Shorthair_153.jpg,7,7,0.7393,1
+British Shorthair\British Shorthair_175.jpg,7,2,0.711,0
+British Shorthair\British Shorthair_178.jpg,7,1,0.4465,0
+British Shorthair\British Shorthair_19.jpg,7,7,0.987,1
+British Shorthair\British Shorthair_191.jpg,7,8,0.603,0
+British Shorthair\British Shorthair_193.jpg,7,1,0.6733,0
+British Shorthair\British Shorthair_212.jpg,7,11,0.9326,0
+British Shorthair\British Shorthair_220.jpg,7,16,0.689,0
+British Shorthair\British Shorthair_23.jpg,7,7,0.78,1
+British Shorthair\British Shorthair_240.jpg,7,7,1.0,1
+British Shorthair\British Shorthair_242.jpg,7,7,0.973,1
+British Shorthair\British Shorthair_243.jpg,7,7,0.9976,1
+British Shorthair\British Shorthair_252.jpg,7,15,0.703,0
+British Shorthair\British Shorthair_26.jpg,7,15,0.923,0
+British Shorthair\British Shorthair_261.jpg,7,7,0.996,1
+British Shorthair\British Shorthair_265.jpg,7,7,0.9995,1
+British Shorthair\British Shorthair_267.jpg,7,1,0.843,0
+British Shorthair\British Shorthair_268.jpg,7,7,0.728,1
+British Shorthair\British Shorthair_276.jpg,7,7,0.993,1
+British Shorthair\British Shorthair_28.jpg,7,8,0.599,0
+British Shorthair\British Shorthair_283.jpg,7,15,0.9766,0
+British Shorthair\British Shorthair_285.jpg,7,9,0.51,0
+British Shorthair\British Shorthair_287.jpg,7,7,0.9966,1
+British Shorthair\British Shorthair_295.jpg,7,7,0.9736,1
+British Shorthair\British Shorthair_307.jpg,7,7,0.9575,1
+British Shorthair\British Shorthair_31.jpg,7,7,0.993,1
+British Shorthair\British Shorthair_310.jpg,7,7,0.992,1
+British Shorthair\British Shorthair_331.jpg,7,7,0.995,1
+British Shorthair\British Shorthair_341.jpg,7,15,0.7417,0
+British Shorthair\British Shorthair_345.jpg,7,7,0.998,1
+British Shorthair\British Shorthair_36.jpg,7,7,0.98,1
+British Shorthair\British Shorthair_46.jpg,7,7,1.0,1
+British Shorthair\British Shorthair_47.jpg,7,9,0.4268,0
+British Shorthair\British Shorthair_5.jpg,7,7,0.8584,1
+British Shorthair\British Shorthair_53.jpg,7,7,0.937,1
+British Shorthair\British Shorthair_55.jpg,7,7,0.9526,1
+British Shorthair\British Shorthair_56.jpg,7,7,0.6733,1
+British Shorthair\British Shorthair_58.jpg,7,1,0.8877,0
+British Shorthair\British Shorthair_61.jpg,7,7,0.9917,1
+British Shorthair\British Shorthair_62.jpg,7,7,0.9775,1
+British Shorthair\British Shorthair_69.jpg,7,7,0.899,1
+British Shorthair\British Shorthair_77.jpg,7,7,0.9927,1
+British Shorthair\British Shorthair_79.jpg,7,15,0.778,0
+British Shorthair\British Shorthair_87.jpg,7,7,0.659,1
+British Shorthair\British Shorthair_91.jpg,7,7,0.9624,1
+Egyptian Mau\Egyptian Mau_106.jpg,8,8,0.9976,1
+Egyptian Mau\Egyptian Mau_107.jpg,8,8,1.0,1
+Egyptian Mau\Egyptian Mau_119.jpg,8,8,0.7646,1
+Egyptian Mau\Egyptian Mau_123.jpg,8,8,0.99,1
+Egyptian Mau\Egyptian Mau_129.jpg,8,8,0.9746,1
+Egyptian Mau\Egyptian Mau_13.jpg,8,8,0.998,1
+Egyptian Mau\Egyptian Mau_131.jpg,8,8,0.973,1
+Egyptian Mau\Egyptian Mau_147.jpg,8,8,0.9985,1
+Egyptian Mau\Egyptian Mau_149.jpg,8,8,0.9707,1
+Egyptian Mau\Egyptian Mau_153.jpg,8,10,0.2169,0
+Egyptian Mau\Egyptian Mau_175.jpg,8,4,0.544,0
+Egyptian Mau\Egyptian Mau_178.jpg,8,8,0.9966,1
+Egyptian Mau\Egyptian Mau_19.jpg,8,8,0.9995,1
+Egyptian Mau\Egyptian Mau_191.jpg,8,0,1.0,0
+Egyptian Mau\Egyptian Mau_193.jpg,8,8,0.579,1
+Egyptian Mau\Egyptian Mau_212.jpg,8,8,0.9775,1
+Egyptian Mau\Egyptian Mau_220.jpg,8,8,0.989,1
+Egyptian Mau\Egyptian Mau_23.jpg,8,8,1.0,1
+Egyptian Mau\Egyptian Mau_240.jpg,8,8,1.0,1
+Egyptian Mau\Egyptian Mau_242.jpg,8,8,1.0,1
+Egyptian Mau\Egyptian Mau_243.jpg,8,8,0.999,1
+Egyptian Mau\Egyptian Mau_252.jpg,8,8,1.0,1
+Egyptian Mau\Egyptian Mau_26.jpg,8,8,0.2717,1
+Egyptian Mau\Egyptian Mau_261.jpg,8,8,0.9824,1
+Egyptian Mau\Egyptian Mau_265.jpg,8,1,0.787,0
+Egyptian Mau\Egyptian Mau_267.jpg,8,8,0.8354,1
+Egyptian Mau\Egyptian Mau_268.jpg,8,8,0.7246,1
+Egyptian Mau\Egyptian Mau_276.jpg,8,8,0.8774,1
+Egyptian Mau\Egyptian Mau_28.jpg,8,8,0.9575,1
+Egyptian Mau\Egyptian Mau_283.jpg,8,8,0.9995,1
+Egyptian Mau\Egyptian Mau_285.jpg,8,8,0.9995,1
+Egyptian Mau\Egyptian Mau_287.jpg,8,8,1.0,1
+Egyptian Mau\Egyptian Mau_295.jpg,8,8,0.998,1
+Egyptian Mau\Egyptian Mau_307.jpg,8,8,0.994,1
+Egyptian Mau\Egyptian Mau_31.jpg,8,8,0.8276,1
+Egyptian Mau\Egyptian Mau_310.jpg,8,8,0.9995,1
+Egyptian Mau\Egyptian Mau_331.jpg,8,8,0.9985,1
+Egyptian Mau\Egyptian Mau_341.jpg,8,8,0.9976,1
+Egyptian Mau\Egyptian Mau_345.jpg,8,1,0.4824,0
+Egyptian Mau\Egyptian Mau_36.jpg,8,8,0.9995,1
+Egyptian Mau\Egyptian Mau_46.jpg,8,8,1.0,1
+Egyptian Mau\Egyptian Mau_47.jpg,8,2,0.5303,0
+Egyptian Mau\Egyptian Mau_5.jpg,8,8,0.9985,1
+Egyptian Mau\Egyptian Mau_53.jpg,8,8,0.9995,1
+Egyptian Mau\Egyptian Mau_55.jpg,8,8,0.9575,1
+Egyptian Mau\Egyptian Mau_56.jpg,8,8,0.999,1
+Egyptian Mau\Egyptian Mau_58.jpg,8,8,0.985,1
+Egyptian Mau\Egyptian Mau_61.jpg,8,8,0.999,1
+Egyptian Mau\Egyptian Mau_62.jpg,8,8,1.0,1
+Egyptian Mau\Egyptian Mau_69.jpg,8,8,1.0,1
+Egyptian Mau\Egyptian Mau_77.jpg,8,8,0.9995,1
+Egyptian Mau\Egyptian Mau_79.jpg,8,8,1.0,1
+Egyptian Mau\Egyptian Mau_87.jpg,8,8,0.934,1
+Egyptian Mau\Egyptian Mau_91.jpg,8,8,0.9385,1
+Exotic Shorthair\Exotic Shorthair_106.jpg,9,9,0.998,1
+Exotic Shorthair\Exotic Shorthair_107.jpg,9,9,0.996,1
+Exotic Shorthair\Exotic Shorthair_119.jpg,9,9,0.9985,1
+Exotic Shorthair\Exotic Shorthair_123.jpg,9,9,0.997,1
+Exotic Shorthair\Exotic Shorthair_129.jpg,9,9,0.9966,1
+Exotic Shorthair\Exotic Shorthair_13.jpg,9,11,0.741,0
+Exotic Shorthair\Exotic Shorthair_131.jpg,9,16,0.527,0
+Exotic Shorthair\Exotic Shorthair_147.jpg,9,9,0.673,1
+Exotic Shorthair\Exotic Shorthair_149.jpg,9,11,0.969,0
+Exotic Shorthair\Exotic Shorthair_153.jpg,9,16,0.4722,0
+Exotic Shorthair\Exotic Shorthair_175.jpg,9,9,0.536,1
+Exotic Shorthair\Exotic Shorthair_178.jpg,9,9,1.0,1
+Exotic Shorthair\Exotic Shorthair_19.jpg,9,9,0.9893,1
+Exotic Shorthair\Exotic Shorthair_191.jpg,9,2,0.5625,0
+Exotic Shorthair\Exotic Shorthair_193.jpg,9,9,0.995,1
+Exotic Shorthair\Exotic Shorthair_212.jpg,9,9,1.0,1
+Exotic Shorthair\Exotic Shorthair_220.jpg,9,9,0.9995,1
+Exotic Shorthair\Exotic Shorthair_23.jpg,9,9,0.949,1
+Exotic Shorthair\Exotic Shorthair_240.jpg,9,9,0.998,1
+Exotic Shorthair\Exotic Shorthair_242.jpg,9,9,0.872,1
+Exotic Shorthair\Exotic Shorthair_243.jpg,9,9,0.9956,1
+Exotic Shorthair\Exotic Shorthair_252.jpg,9,9,0.981,1
+Exotic Shorthair\Exotic Shorthair_26.jpg,9,9,0.9976,1
+Exotic Shorthair\Exotic Shorthair_261.jpg,9,9,1.0,1
+Exotic Shorthair\Exotic Shorthair_265.jpg,9,9,0.993,1
+Exotic Shorthair\Exotic Shorthair_267.jpg,9,16,0.871,0
+Exotic Shorthair\Exotic Shorthair_268.jpg,9,9,0.993,1
+Exotic Shorthair\Exotic Shorthair_276.jpg,9,11,0.8926,0
+Exotic Shorthair\Exotic Shorthair_28.jpg,9,9,0.979,1
+Exotic Shorthair\Exotic Shorthair_283.jpg,9,9,0.999,1
+Exotic Shorthair\Exotic Shorthair_285.jpg,9,9,0.9956,1
+Exotic Shorthair\Exotic Shorthair_287.jpg,9,9,0.927,1
+Exotic Shorthair\Exotic Shorthair_295.jpg,9,9,1.0,1
+Exotic Shorthair\Exotic Shorthair_307.jpg,9,9,0.9507,1
+Exotic Shorthair\Exotic Shorthair_31.jpg,9,9,0.9194,1
+Exotic Shorthair\Exotic Shorthair_310.jpg,9,9,0.665,1
+Exotic Shorthair\Exotic Shorthair_331.jpg,9,9,0.9995,1
+Exotic Shorthair\Exotic Shorthair_341.jpg,9,9,0.4233,1
+Exotic Shorthair\Exotic Shorthair_345.jpg,9,9,1.0,1
+Exotic Shorthair\Exotic Shorthair_36.jpg,9,9,0.9995,1
+Exotic Shorthair\Exotic Shorthair_46.jpg,9,9,0.9937,1
+Exotic Shorthair\Exotic Shorthair_47.jpg,9,9,0.9976,1
+Exotic Shorthair\Exotic Shorthair_5.jpg,9,9,0.9995,1
+Exotic Shorthair\Exotic Shorthair_53.jpg,9,9,0.9717,1
+Exotic Shorthair\Exotic Shorthair_55.jpg,9,13,0.9536,0
+Exotic Shorthair\Exotic Shorthair_56.jpg,9,7,0.51,0
+Exotic Shorthair\Exotic Shorthair_58.jpg,9,7,0.972,0
+Exotic Shorthair\Exotic Shorthair_61.jpg,9,9,0.998,1
+Exotic Shorthair\Exotic Shorthair_62.jpg,9,9,0.9663,1
+Exotic Shorthair\Exotic Shorthair_69.jpg,9,14,0.642,0
+Exotic Shorthair\Exotic Shorthair_77.jpg,9,9,0.989,1
+Exotic Shorthair\Exotic Shorthair_79.jpg,9,9,0.992,1
+Exotic Shorthair\Exotic Shorthair_87.jpg,9,9,0.9976,1
+Exotic Shorthair\Exotic Shorthair_91.jpg,9,9,0.946,1
+Maine Coon\Maine Coon_106.jpg,10,12,0.7466,0
+Maine Coon\Maine Coon_107.jpg,10,10,0.9263,1
+Maine Coon\Maine Coon_119.jpg,10,10,0.64,1
+Maine Coon\Maine Coon_123.jpg,10,12,0.697,0
+Maine Coon\Maine Coon_129.jpg,10,10,0.773,1
+Maine Coon\Maine Coon_13.jpg,10,10,0.9985,1
+Maine Coon\Maine Coon_131.jpg,10,14,0.5273,0
+Maine Coon\Maine Coon_147.jpg,10,7,0.3489,0
+Maine Coon\Maine Coon_149.jpg,10,10,0.5923,1
+Maine Coon\Maine Coon_153.jpg,10,10,0.9077,1
+Maine Coon\Maine Coon_175.jpg,10,10,0.985,1
+Maine Coon\Maine Coon_178.jpg,10,1,0.532,0
+Maine Coon\Maine Coon_19.jpg,10,11,0.8296,0
+Maine Coon\Maine Coon_191.jpg,10,10,0.597,1
+Maine Coon\Maine Coon_193.jpg,10,1,0.4443,0
+Maine Coon\Maine Coon_212.jpg,10,10,0.4102,1
+Maine Coon\Maine Coon_220.jpg,10,1,0.764,0
+Maine Coon\Maine Coon_23.jpg,10,10,0.7085,1
+Maine Coon\Maine Coon_240.jpg,10,10,0.632,1
+Maine Coon\Maine Coon_242.jpg,10,10,0.4644,1
+Maine Coon\Maine Coon_243.jpg,10,10,0.9956,1
+Maine Coon\Maine Coon_252.jpg,10,10,0.9907,1
+Maine Coon\Maine Coon_26.jpg,10,10,0.979,1
+Maine Coon\Maine Coon_261.jpg,10,10,0.9624,1
+Maine Coon\Maine Coon_265.jpg,10,10,0.986,1
+Maine Coon\Maine Coon_267.jpg,10,10,1.0,1
+Maine Coon\Maine Coon_268.jpg,10,10,1.0,1
+Maine Coon\Maine Coon_276.jpg,10,10,0.999,1
+Maine Coon\Maine Coon_28.jpg,10,10,0.9185,1
+Maine Coon\Maine Coon_283.jpg,10,10,0.996,1
+Maine Coon\Maine Coon_285.jpg,10,10,0.987,1
+Maine Coon\Maine Coon_287.jpg,10,13,0.7695,0
+Maine Coon\Maine Coon_295.jpg,10,10,0.9956,1
+Maine Coon\Maine Coon_307.jpg,10,10,0.9917,1
+Maine Coon\Maine Coon_31.jpg,10,10,0.9937,1
+Maine Coon\Maine Coon_310.jpg,10,10,0.979,1
+Maine Coon\Maine Coon_331.jpg,10,10,0.9814,1
+Maine Coon\Maine Coon_341.jpg,10,10,0.999,1
+Maine Coon\Maine Coon_345.jpg,10,10,0.994,1
+Maine Coon\Maine Coon_36.jpg,10,10,0.905,1
+Maine Coon\Maine Coon_46.jpg,10,10,0.7344,1
+Maine Coon\Maine Coon_47.jpg,10,10,0.875,1
+Maine Coon\Maine Coon_5.jpg,10,3,0.533,0
+Maine Coon\Maine Coon_53.jpg,10,10,0.9233,1
+Maine Coon\Maine Coon_55.jpg,10,11,0.6523,0
+Maine Coon\Maine Coon_56.jpg,10,10,0.8203,1
+Maine Coon\Maine Coon_58.jpg,10,0,0.729,0
+Maine Coon\Maine Coon_61.jpg,10,10,0.8965,1
+Maine Coon\Maine Coon_62.jpg,10,10,0.928,1
+Maine Coon\Maine Coon_69.jpg,10,10,0.9863,1
+Maine Coon\Maine Coon_77.jpg,10,10,0.7217,1
+Maine Coon\Maine Coon_79.jpg,10,10,0.9995,1
+Maine Coon\Maine Coon_87.jpg,10,10,0.8545,1
+Maine Coon\Maine Coon_91.jpg,10,10,0.9893,1
+Manx\Manx_106.jpg,11,11,0.7915,1
+Manx\Manx_107.jpg,11,0,0.996,0
+Manx\Manx_119.jpg,11,11,0.9253,1
+Manx\Manx_123.jpg,11,11,0.9956,1
+Manx\Manx_129.jpg,11,11,1.0,1
+Manx\Manx_13.jpg,11,11,0.9854,1
+Manx\Manx_131.jpg,11,11,0.616,1
+Manx\Manx_147.jpg,11,11,0.9414,1
+Manx\Manx_149.jpg,11,11,0.999,1
+Manx\Manx_153.jpg,11,11,0.8706,1
+Manx\Manx_175.jpg,11,11,0.997,1
+Manx\Manx_178.jpg,11,11,0.9326,1
+Manx\Manx_19.jpg,11,11,0.996,1
+Manx\Manx_191.jpg,11,11,1.0,1
+Manx\Manx_193.jpg,11,11,0.985,1
+Manx\Manx_212.jpg,11,11,1.0,1
+Manx\Manx_220.jpg,11,11,0.999,1
+Manx\Manx_23.jpg,11,4,0.558,0
+Manx\Manx_240.jpg,11,9,0.657,0
+Manx\Manx_242.jpg,11,11,0.9956,1
+Manx\Manx_243.jpg,11,11,0.817,1
+Manx\Manx_252.jpg,11,12,0.834,0
+Manx\Manx_26.jpg,11,11,0.993,1
+Manx\Manx_261.jpg,11,11,0.9976,1
+Manx\Manx_265.jpg,11,11,0.9917,1
+Manx\Manx_267.jpg,11,3,0.7397,0
+Manx\Manx_268.jpg,11,11,0.9976,1
+Manx\Manx_276.jpg,11,11,0.9644,1
+Manx\Manx_28.jpg,11,1,0.5405,0
+Manx\Manx_283.jpg,11,11,0.8364,1
+Manx\Manx_285.jpg,11,11,0.9766,1
+Manx\Manx_287.jpg,11,11,0.998,1
+Manx\Manx_295.jpg,11,11,0.9995,1
+Manx\Manx_307.jpg,11,11,0.547,1
+Manx\Manx_31.jpg,11,11,0.8726,1
+Manx\Manx_310.jpg,11,11,0.9985,1
+Manx\Manx_331.jpg,11,11,0.9966,1
+Manx\Manx_341.jpg,11,11,1.0,1
+Manx\Manx_345.jpg,11,11,0.9985,1
+Manx\Manx_36.jpg,11,11,0.978,1
+Manx\Manx_46.jpg,11,11,0.7036,1
+Manx\Manx_47.jpg,11,1,0.924,0
+Manx\Manx_5.jpg,11,11,0.9995,1
+Manx\Manx_53.jpg,11,11,0.9565,1
+Manx\Manx_55.jpg,11,11,0.9556,1
+Manx\Manx_56.jpg,11,11,0.9985,1
+Manx\Manx_58.jpg,11,11,0.9873,1
+Manx\Manx_61.jpg,11,11,0.9976,1
+Manx\Manx_62.jpg,11,4,0.7905,0
+Manx\Manx_69.jpg,11,3,0.875,0
+Manx\Manx_77.jpg,11,11,0.827,1
+Manx\Manx_79.jpg,11,11,0.936,1
+Manx\Manx_87.jpg,11,11,0.9995,1
+Manx\Manx_91.jpg,11,11,0.9985,1
+Norwegian Forest\Norwegian Forest_106.jpg,12,12,0.994,1
+Norwegian Forest\Norwegian Forest_107.jpg,12,12,0.9985,1
+Norwegian Forest\Norwegian Forest_119.jpg,12,13,0.4597,0
+Norwegian Forest\Norwegian Forest_123.jpg,12,12,0.9956,1
+Norwegian Forest\Norwegian Forest_129.jpg,12,10,0.3494,0
+Norwegian Forest\Norwegian Forest_13.jpg,12,12,1.0,1
+Norwegian Forest\Norwegian Forest_131.jpg,12,12,1.0,1
+Norwegian Forest\Norwegian Forest_147.jpg,12,12,0.9165,1
+Norwegian Forest\Norwegian Forest_149.jpg,12,10,0.5483,0
+Norwegian Forest\Norwegian Forest_153.jpg,12,12,0.9985,1
+Norwegian Forest\Norwegian Forest_175.jpg,12,12,0.7944,1
+Norwegian Forest\Norwegian Forest_178.jpg,12,12,0.92,1
+Norwegian Forest\Norwegian Forest_19.jpg,12,12,0.9966,1
+Norwegian Forest\Norwegian Forest_191.jpg,12,12,0.948,1
+Norwegian Forest\Norwegian Forest_193.jpg,12,12,0.945,1
+Norwegian Forest\Norwegian Forest_212.jpg,12,12,0.998,1
+Norwegian Forest\Norwegian Forest_220.jpg,12,10,0.7695,0
+Norwegian Forest\Norwegian Forest_23.jpg,12,12,0.998,1
+Norwegian Forest\Norwegian Forest_240.jpg,12,12,0.985,1
+Norwegian Forest\Norwegian Forest_242.jpg,12,12,0.998,1
+Norwegian Forest\Norwegian Forest_243.jpg,12,10,0.677,0
+Norwegian Forest\Norwegian Forest_252.jpg,12,12,0.9976,1
+Norwegian Forest\Norwegian Forest_26.jpg,12,12,0.9985,1
+Norwegian Forest\Norwegian Forest_261.jpg,12,12,0.981,1
+Norwegian Forest\Norwegian Forest_265.jpg,12,12,0.7305,1
+Norwegian Forest\Norwegian Forest_267.jpg,12,12,0.9985,1
+Norwegian Forest\Norwegian Forest_268.jpg,12,12,0.999,1
+Norwegian Forest\Norwegian Forest_276.jpg,12,13,0.696,0
+Norwegian Forest\Norwegian Forest_28.jpg,12,12,0.989,1
+Norwegian Forest\Norwegian Forest_283.jpg,12,12,0.75,1
+Norwegian Forest\Norwegian Forest_285.jpg,12,12,0.4583,1
+Norwegian Forest\Norwegian Forest_287.jpg,12,12,0.9976,1
+Norwegian Forest\Norwegian Forest_295.jpg,12,10,0.974,0
+Norwegian Forest\Norwegian Forest_307.jpg,12,12,0.847,1
+Norwegian Forest\Norwegian Forest_31.jpg,12,10,0.4998,0
+Norwegian Forest\Norwegian Forest_310.jpg,12,12,0.9976,1
+Norwegian Forest\Norwegian Forest_331.jpg,12,12,0.9976,1
+Norwegian Forest\Norwegian Forest_341.jpg,12,12,0.8354,1
+Norwegian Forest\Norwegian Forest_345.jpg,12,12,0.9907,1
+Norwegian Forest\Norwegian Forest_36.jpg,12,12,0.9727,1
+Norwegian Forest\Norwegian Forest_46.jpg,12,12,0.854,1
+Norwegian Forest\Norwegian Forest_47.jpg,12,12,0.997,1
+Norwegian Forest\Norwegian Forest_5.jpg,12,12,1.0,1
+Norwegian Forest\Norwegian Forest_53.jpg,12,10,0.4863,0
+Norwegian Forest\Norwegian Forest_55.jpg,12,10,0.797,0
+Norwegian Forest\Norwegian Forest_56.jpg,12,12,0.998,1
+Norwegian Forest\Norwegian Forest_58.jpg,12,12,1.0,1
+Norwegian Forest\Norwegian Forest_61.jpg,12,12,0.8735,1
+Norwegian Forest\Norwegian Forest_62.jpg,12,12,0.8433,1
+Norwegian Forest\Norwegian Forest_69.jpg,12,12,0.945,1
+Norwegian Forest\Norwegian Forest_77.jpg,12,12,0.945,1
+Norwegian Forest\Norwegian Forest_79.jpg,12,12,0.9995,1
+Norwegian Forest\Norwegian Forest_87.jpg,12,12,0.9976,1
+Norwegian Forest\Norwegian Forest_91.jpg,12,12,0.9976,1
+Persian\Persian_106.jpg,13,13,0.9976,1
+Persian\Persian_107.jpg,13,13,0.7524,1
+Persian\Persian_119.jpg,13,13,0.992,1
+Persian\Persian_123.jpg,13,13,0.999,1
+Persian\Persian_129.jpg,13,13,0.9673,1
+Persian\Persian_13.jpg,13,13,0.9346,1
+Persian\Persian_131.jpg,13,13,0.9478,1
+Persian\Persian_147.jpg,13,13,0.5713,1
+Persian\Persian_149.jpg,13,13,0.8853,1
+Persian\Persian_153.jpg,13,13,0.973,1
+Persian\Persian_175.jpg,13,13,1.0,1
+Persian\Persian_178.jpg,13,13,0.8096,1
+Persian\Persian_19.jpg,13,13,0.9995,1
+Persian\Persian_191.jpg,13,13,0.993,1
+Persian\Persian_193.jpg,13,13,0.9995,1
+Persian\Persian_212.jpg,13,19,0.5835,0
+Persian\Persian_220.jpg,13,13,0.9946,1
+Persian\Persian_23.jpg,13,13,0.966,1
+Persian\Persian_240.jpg,13,13,0.986,1
+Persian\Persian_242.jpg,13,13,0.999,1
+Persian\Persian_243.jpg,13,13,0.9976,1
+Persian\Persian_252.jpg,13,13,0.6333,1
+Persian\Persian_26.jpg,13,13,0.781,1
+Persian\Persian_261.jpg,13,13,0.416,1
+Persian\Persian_265.jpg,13,13,0.9995,1
+Persian\Persian_267.jpg,13,13,0.999,1
+Persian\Persian_268.jpg,13,13,1.0,1
+Persian\Persian_276.jpg,13,13,0.9844,1
+Persian\Persian_28.jpg,13,13,0.9956,1
+Persian\Persian_283.jpg,13,13,0.9814,1
+Persian\Persian_285.jpg,13,13,0.9966,1
+Persian\Persian_287.jpg,13,13,0.9985,1
+Persian\Persian_295.jpg,13,13,1.0,1
+Persian\Persian_307.jpg,13,13,0.9995,1
+Persian\Persian_31.jpg,13,13,1.0,1
+Persian\Persian_310.jpg,13,12,0.6157,0
+Persian\Persian_331.jpg,13,13,0.9434,1
+Persian\Persian_341.jpg,13,13,1.0,1
+Persian\Persian_345.jpg,13,9,0.61,0
+Persian\Persian_36.jpg,13,13,0.5024,1
+Persian\Persian_46.jpg,13,13,0.9976,1
+Persian\Persian_47.jpg,13,13,0.9995,1
+Persian\Persian_5.jpg,13,13,0.9834,1
+Persian\Persian_53.jpg,13,13,0.993,1
+Persian\Persian_55.jpg,13,13,0.9976,1
+Persian\Persian_56.jpg,13,13,0.9985,1
+Persian\Persian_58.jpg,13,13,1.0,1
+Persian\Persian_61.jpg,13,13,1.0,1
+Persian\Persian_62.jpg,13,13,0.854,1
+Persian\Persian_69.jpg,13,13,0.999,1
+Persian\Persian_77.jpg,13,13,0.572,1
+Persian\Persian_79.jpg,13,9,0.5405,0
+Persian\Persian_87.jpg,13,13,0.702,1
+Persian\Persian_91.jpg,13,13,0.998,1
+Ragdoll\Ragdoll_106.jpg,14,14,0.815,1
+Ragdoll\Ragdoll_107.jpg,14,5,0.735,0
+Ragdoll\Ragdoll_119.jpg,14,14,0.2827,1
+Ragdoll\Ragdoll_123.jpg,14,5,0.837,0
+Ragdoll\Ragdoll_129.jpg,14,14,0.95,1
+Ragdoll\Ragdoll_13.jpg,14,14,0.994,1
+Ragdoll\Ragdoll_131.jpg,14,14,0.97,1
+Ragdoll\Ragdoll_147.jpg,14,14,0.8506,1
+Ragdoll\Ragdoll_149.jpg,14,5,0.8354,0
+Ragdoll\Ragdoll_153.jpg,14,14,0.973,1
+Ragdoll\Ragdoll_175.jpg,14,14,0.6562,1
+Ragdoll\Ragdoll_178.jpg,14,14,0.972,1
+Ragdoll\Ragdoll_19.jpg,14,14,0.977,1
+Ragdoll\Ragdoll_191.jpg,14,14,0.828,1
+Ragdoll\Ragdoll_193.jpg,14,1,0.793,0
+Ragdoll\Ragdoll_212.jpg,14,14,0.9937,1
+Ragdoll\Ragdoll_220.jpg,14,14,0.9995,1
+Ragdoll\Ragdoll_23.jpg,14,14,0.647,1
+Ragdoll\Ragdoll_240.jpg,14,19,0.551,0
+Ragdoll\Ragdoll_242.jpg,14,5,0.5894,0
+Ragdoll\Ragdoll_243.jpg,14,14,0.533,1
+Ragdoll\Ragdoll_252.jpg,14,5,0.541,0
+Ragdoll\Ragdoll_26.jpg,14,5,0.4915,0
+Ragdoll\Ragdoll_261.jpg,14,14,0.9834,1
+Ragdoll\Ragdoll_265.jpg,14,14,0.9805,1
+Ragdoll\Ragdoll_267.jpg,14,5,0.568,0
+Ragdoll\Ragdoll_268.jpg,14,1,0.8716,0
+Ragdoll\Ragdoll_276.jpg,14,5,0.5215,0
+Ragdoll\Ragdoll_28.jpg,14,14,0.9033,1
+Ragdoll\Ragdoll_283.jpg,14,5,0.9404,0
+Ragdoll\Ragdoll_285.jpg,14,5,0.904,0
+Ragdoll\Ragdoll_287.jpg,14,14,0.9966,1
+Ragdoll\Ragdoll_295.jpg,14,14,0.9634,1
+Ragdoll\Ragdoll_307.jpg,14,14,0.9995,1
+Ragdoll\Ragdoll_31.jpg,14,14,0.883,1
+Ragdoll\Ragdoll_310.jpg,14,14,0.945,1
+Ragdoll\Ragdoll_331.jpg,14,14,0.625,1
+Ragdoll\Ragdoll_341.jpg,14,14,0.9897,1
+Ragdoll\Ragdoll_345.jpg,14,14,0.7324,1
+Ragdoll\Ragdoll_36.jpg,14,9,0.6235,0
+Ragdoll\Ragdoll_46.jpg,14,14,0.9883,1
+Ragdoll\Ragdoll_47.jpg,14,14,0.7,1
+Ragdoll\Ragdoll_5.jpg,14,14,0.974,1
+Ragdoll\Ragdoll_53.jpg,14,5,0.896,0
+Ragdoll\Ragdoll_55.jpg,14,14,0.6797,1
+Ragdoll\Ragdoll_56.jpg,14,14,0.919,1
+Ragdoll\Ragdoll_58.jpg,14,14,0.8594,1
+Ragdoll\Ragdoll_61.jpg,14,11,0.936,0
+Ragdoll\Ragdoll_62.jpg,14,14,0.8853,1
+Ragdoll\Ragdoll_69.jpg,14,14,0.9834,1
+Ragdoll\Ragdoll_77.jpg,14,14,0.9688,1
+Ragdoll\Ragdoll_79.jpg,14,14,0.967,1
+Ragdoll\Ragdoll_87.jpg,14,14,0.71,1
+Ragdoll\Ragdoll_91.jpg,14,14,0.657,1
+Russian Blue\Russian Blue_106.jpg,15,15,0.999,1
+Russian Blue\Russian Blue_107.jpg,15,15,0.991,1
+Russian Blue\Russian Blue_119.jpg,15,15,0.7275,1
+Russian Blue\Russian Blue_123.jpg,15,15,0.9717,1
+Russian Blue\Russian Blue_129.jpg,15,15,0.9697,1
+Russian Blue\Russian Blue_13.jpg,15,15,0.9814,1
+Russian Blue\Russian Blue_131.jpg,15,15,0.995,1
+Russian Blue\Russian Blue_147.jpg,15,15,0.8994,1
+Russian Blue\Russian Blue_149.jpg,15,15,0.9365,1
+Russian Blue\Russian Blue_153.jpg,15,15,0.9927,1
+Russian Blue\Russian Blue_175.jpg,15,15,0.995,1
+Russian Blue\Russian Blue_178.jpg,15,15,0.99,1
+Russian Blue\Russian Blue_19.jpg,15,15,0.9893,1
+Russian Blue\Russian Blue_191.jpg,15,15,0.994,1
+Russian Blue\Russian Blue_193.jpg,15,15,0.9995,1
+Russian Blue\Russian Blue_212.jpg,15,15,0.731,1
+Russian Blue\Russian Blue_220.jpg,15,7,0.649,0
+Russian Blue\Russian Blue_23.jpg,15,15,0.59,1
+Russian Blue\Russian Blue_240.jpg,15,7,0.681,0
+Russian Blue\Russian Blue_242.jpg,15,15,0.9536,1
+Russian Blue\Russian Blue_243.jpg,15,15,0.8794,1
+Russian Blue\Russian Blue_252.jpg,15,15,0.4111,1
+Russian Blue\Russian Blue_26.jpg,15,15,0.992,1
+Russian Blue\Russian Blue_261.jpg,15,15,0.9985,1
+Russian Blue\Russian Blue_265.jpg,15,11,0.5728,0
+Russian Blue\Russian Blue_267.jpg,15,15,1.0,1
+Russian Blue\Russian Blue_268.jpg,15,15,0.969,1
+Russian Blue\Russian Blue_276.jpg,15,15,1.0,1
+Russian Blue\Russian Blue_28.jpg,15,15,0.995,1
+Russian Blue\Russian Blue_283.jpg,15,7,0.9473,0
+Russian Blue\Russian Blue_285.jpg,15,15,0.9907,1
+Russian Blue\Russian Blue_287.jpg,15,15,0.9775,1
+Russian Blue\Russian Blue_295.jpg,15,15,0.68,1
+Russian Blue\Russian Blue_307.jpg,15,15,1.0,1
+Russian Blue\Russian Blue_31.jpg,15,15,1.0,1
+Russian Blue\Russian Blue_310.jpg,15,15,0.9995,1
+Russian Blue\Russian Blue_331.jpg,15,15,0.9873,1
+Russian Blue\Russian Blue_341.jpg,15,15,0.996,1
+Russian Blue\Russian Blue_345.jpg,15,15,0.9956,1
+Russian Blue\Russian Blue_36.jpg,15,15,1.0,1
+Russian Blue\Russian Blue_46.jpg,15,15,0.9995,1
+Russian Blue\Russian Blue_47.jpg,15,15,0.9136,1
+Russian Blue\Russian Blue_5.jpg,15,15,0.941,1
+Russian Blue\Russian Blue_53.jpg,15,15,0.999,1
+Russian Blue\Russian Blue_55.jpg,15,15,0.998,1
+Russian Blue\Russian Blue_56.jpg,15,15,0.934,1
+Russian Blue\Russian Blue_58.jpg,15,15,0.641,1
+Russian Blue\Russian Blue_61.jpg,15,15,0.999,1
+Russian Blue\Russian Blue_62.jpg,15,15,0.996,1
+Russian Blue\Russian Blue_69.jpg,15,15,0.9995,1
+Russian Blue\Russian Blue_77.jpg,15,15,0.774,1
+Russian Blue\Russian Blue_79.jpg,15,15,0.9893,1
+Russian Blue\Russian Blue_87.jpg,15,15,0.9795,1
+Russian Blue\Russian Blue_91.jpg,15,15,1.0,1
+Scottish Fold\Scottish Fold_106.jpg,16,16,0.9976,1
+Scottish Fold\Scottish Fold_107.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_119.jpg,16,16,0.9995,1
+Scottish Fold\Scottish Fold_123.jpg,16,16,0.985,1
+Scottish Fold\Scottish Fold_129.jpg,16,16,0.9023,1
+Scottish Fold\Scottish Fold_13.jpg,16,7,0.622,0
+Scottish Fold\Scottish Fold_131.jpg,16,16,0.993,1
+Scottish Fold\Scottish Fold_147.jpg,16,9,0.691,0
+Scottish Fold\Scottish Fold_149.jpg,16,16,0.874,1
+Scottish Fold\Scottish Fold_153.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_175.jpg,16,16,0.9995,1
+Scottish Fold\Scottish Fold_178.jpg,16,16,0.9995,1
+Scottish Fold\Scottish Fold_19.jpg,16,16,0.937,1
+Scottish Fold\Scottish Fold_191.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_193.jpg,16,16,0.9995,1
+Scottish Fold\Scottish Fold_212.jpg,16,16,0.986,1
+Scottish Fold\Scottish Fold_220.jpg,16,16,0.9985,1
+Scottish Fold\Scottish Fold_23.jpg,16,16,0.997,1
+Scottish Fold\Scottish Fold_240.jpg,16,16,0.998,1
+Scottish Fold\Scottish Fold_242.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_243.jpg,16,16,0.998,1
+Scottish Fold\Scottish Fold_252.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_26.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_261.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_265.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_267.jpg,16,16,0.995,1
+Scottish Fold\Scottish Fold_268.jpg,16,16,0.9956,1
+Scottish Fold\Scottish Fold_276.jpg,16,16,0.997,1
+Scottish Fold\Scottish Fold_28.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_283.jpg,16,16,0.9814,1
+Scottish Fold\Scottish Fold_285.jpg,16,16,0.982,1
+Scottish Fold\Scottish Fold_287.jpg,16,16,0.9995,1
+Scottish Fold\Scottish Fold_295.jpg,16,16,0.9995,1
+Scottish Fold\Scottish Fold_307.jpg,16,16,0.95,1
+Scottish Fold\Scottish Fold_31.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_310.jpg,16,16,0.988,1
+Scottish Fold\Scottish Fold_331.jpg,16,16,0.9985,1
+Scottish Fold\Scottish Fold_341.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_345.jpg,16,16,0.996,1
+Scottish Fold\Scottish Fold_36.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_46.jpg,16,16,0.9995,1
+Scottish Fold\Scottish Fold_47.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_5.jpg,16,9,0.4092,0
+Scottish Fold\Scottish Fold_53.jpg,16,16,0.999,1
+Scottish Fold\Scottish Fold_55.jpg,16,16,0.982,1
+Scottish Fold\Scottish Fold_56.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_58.jpg,16,16,0.966,1
+Scottish Fold\Scottish Fold_61.jpg,16,16,0.8423,1
+Scottish Fold\Scottish Fold_62.jpg,16,16,1.0,1
+Scottish Fold\Scottish Fold_69.jpg,16,16,0.971,1
+Scottish Fold\Scottish Fold_77.jpg,16,16,0.9526,1
+Scottish Fold\Scottish Fold_79.jpg,16,16,0.9976,1
+Scottish Fold\Scottish Fold_87.jpg,16,16,0.9985,1
+Scottish Fold\Scottish Fold_91.jpg,16,16,1.0,1
+Siamese\Siamese_106.jpg,17,17,1.0,1
+Siamese\Siamese_107.jpg,17,17,1.0,1
+Siamese\Siamese_119.jpg,17,17,0.9976,1
+Siamese\Siamese_123.jpg,17,17,0.9976,1
+Siamese\Siamese_129.jpg,17,17,0.999,1
+Siamese\Siamese_13.jpg,17,17,0.99,1
+Siamese\Siamese_131.jpg,17,17,0.9976,1
+Siamese\Siamese_147.jpg,17,17,0.991,1
+Siamese\Siamese_149.jpg,17,17,0.9873,1
+Siamese\Siamese_153.jpg,17,17,1.0,1
+Siamese\Siamese_175.jpg,17,17,0.9976,1
+Siamese\Siamese_178.jpg,17,17,0.995,1
+Siamese\Siamese_19.jpg,17,17,0.9995,1
+Siamese\Siamese_191.jpg,17,17,0.9805,1
+Siamese\Siamese_193.jpg,17,17,0.9995,1
+Siamese\Siamese_212.jpg,17,17,0.9995,1
+Siamese\Siamese_220.jpg,17,17,0.9766,1
+Siamese\Siamese_23.jpg,17,17,1.0,1
+Siamese\Siamese_240.jpg,17,17,0.9966,1
+Siamese\Siamese_242.jpg,17,17,0.9497,1
+Siamese\Siamese_243.jpg,17,17,0.9995,1
+Siamese\Siamese_252.jpg,17,17,1.0,1
+Siamese\Siamese_26.jpg,17,17,0.9814,1
+Siamese\Siamese_261.jpg,17,17,0.9956,1
+Siamese\Siamese_265.jpg,17,17,1.0,1
+Siamese\Siamese_267.jpg,17,17,0.988,1
+Siamese\Siamese_268.jpg,17,17,0.998,1
+Siamese\Siamese_276.jpg,17,17,0.834,1
+Siamese\Siamese_28.jpg,17,17,1.0,1
+Siamese\Siamese_283.jpg,17,17,0.9746,1
+Siamese\Siamese_285.jpg,17,17,0.9995,1
+Siamese\Siamese_287.jpg,17,17,0.8237,1
+Siamese\Siamese_295.jpg,17,17,0.9995,1
+Siamese\Siamese_307.jpg,17,17,0.997,1
+Siamese\Siamese_31.jpg,17,17,0.979,1
+Siamese\Siamese_310.jpg,17,17,0.987,1
+Siamese\Siamese_331.jpg,17,17,1.0,1
+Siamese\Siamese_341.jpg,17,17,0.9775,1
+Siamese\Siamese_345.jpg,17,17,0.9097,1
+Siamese\Siamese_36.jpg,17,17,1.0,1
+Siamese\Siamese_46.jpg,17,17,0.847,1
+Siamese\Siamese_47.jpg,17,17,0.9995,1
+Siamese\Siamese_5.jpg,17,17,0.9995,1
+Siamese\Siamese_53.jpg,17,17,0.986,1
+Siamese\Siamese_55.jpg,17,17,0.9805,1
+Siamese\Siamese_56.jpg,17,17,0.837,1
+Siamese\Siamese_58.jpg,17,5,0.655,0
+Siamese\Siamese_61.jpg,17,17,0.9863,1
+Siamese\Siamese_62.jpg,17,17,0.9995,1
+Siamese\Siamese_69.jpg,17,17,0.9526,1
+Siamese\Siamese_77.jpg,17,17,1.0,1
+Siamese\Siamese_79.jpg,17,17,0.845,1
+Siamese\Siamese_87.jpg,17,17,1.0,1
+Siamese\Siamese_91.jpg,17,17,0.999,1
+Sphynx\Sphynx_106.jpg,18,18,0.9927,1
+Sphynx\Sphynx_107.jpg,18,18,0.999,1
+Sphynx\Sphynx_119.jpg,18,18,0.5938,1
+Sphynx\Sphynx_123.jpg,18,18,0.9995,1
+Sphynx\Sphynx_129.jpg,18,8,0.826,0
+Sphynx\Sphynx_13.jpg,18,18,0.998,1
+Sphynx\Sphynx_131.jpg,18,19,0.5625,0
+Sphynx\Sphynx_147.jpg,18,18,1.0,1
+Sphynx\Sphynx_149.jpg,18,18,0.7163,1
+Sphynx\Sphynx_153.jpg,18,18,1.0,1
+Sphynx\Sphynx_175.jpg,18,18,0.9927,1
+Sphynx\Sphynx_178.jpg,18,18,1.0,1
+Sphynx\Sphynx_19.jpg,18,18,1.0,1
+Sphynx\Sphynx_191.jpg,18,18,0.984,1
+Sphynx\Sphynx_193.jpg,18,18,0.9995,1
+Sphynx\Sphynx_212.jpg,18,18,0.971,1
+Sphynx\Sphynx_220.jpg,18,0,0.5244,0
+Sphynx\Sphynx_23.jpg,18,18,1.0,1
+Sphynx\Sphynx_240.jpg,18,18,1.0,1
+Sphynx\Sphynx_242.jpg,18,18,0.953,1
+Sphynx\Sphynx_243.jpg,18,18,1.0,1
+Sphynx\Sphynx_252.jpg,18,18,0.9976,1
+Sphynx\Sphynx_26.jpg,18,18,1.0,1
+Sphynx\Sphynx_261.jpg,18,18,0.9956,1
+Sphynx\Sphynx_265.jpg,18,0,0.53,0
+Sphynx\Sphynx_267.jpg,18,18,1.0,1
+Sphynx\Sphynx_268.jpg,18,18,0.996,1
+Sphynx\Sphynx_276.jpg,18,18,1.0,1
+Sphynx\Sphynx_28.jpg,18,18,0.931,1
+Sphynx\Sphynx_283.jpg,18,18,0.9976,1
+Sphynx\Sphynx_285.jpg,18,18,0.958,1
+Sphynx\Sphynx_287.jpg,18,18,0.999,1
+Sphynx\Sphynx_295.jpg,18,18,0.9897,1
+Sphynx\Sphynx_307.jpg,18,18,1.0,1
+Sphynx\Sphynx_31.jpg,18,18,1.0,1
+Sphynx\Sphynx_310.jpg,18,18,0.996,1
+Sphynx\Sphynx_331.jpg,18,18,0.978,1
+Sphynx\Sphynx_341.jpg,18,18,0.92,1
+Sphynx\Sphynx_345.jpg,18,18,0.9995,1
+Sphynx\Sphynx_36.jpg,18,18,0.596,1
+Sphynx\Sphynx_46.jpg,18,18,1.0,1
+Sphynx\Sphynx_47.jpg,18,18,0.993,1
+Sphynx\Sphynx_5.jpg,18,18,1.0,1
+Sphynx\Sphynx_53.jpg,18,18,1.0,1
+Sphynx\Sphynx_55.jpg,18,18,1.0,1
+Sphynx\Sphynx_56.jpg,18,18,0.9995,1
+Sphynx\Sphynx_58.jpg,18,18,0.992,1
+Sphynx\Sphynx_61.jpg,18,18,1.0,1
+Sphynx\Sphynx_62.jpg,18,18,0.9937,1
+Sphynx\Sphynx_69.jpg,18,18,1.0,1
+Sphynx\Sphynx_77.jpg,18,18,1.0,1
+Sphynx\Sphynx_79.jpg,18,18,0.9204,1
+Sphynx\Sphynx_87.jpg,18,18,0.9937,1
+Sphynx\Sphynx_91.jpg,18,18,1.0,1
+Turkish Angora\Turkish Angora_106.jpg,19,10,0.959,0
+Turkish Angora\Turkish Angora_107.jpg,19,19,0.998,1
+Turkish Angora\Turkish Angora_119.jpg,19,19,0.966,1
+Turkish Angora\Turkish Angora_123.jpg,19,1,0.7944,0
+Turkish Angora\Turkish Angora_129.jpg,19,6,0.9907,0
+Turkish Angora\Turkish Angora_13.jpg,19,19,0.9844,1
+Turkish Angora\Turkish Angora_131.jpg,19,15,0.962,0
+Turkish Angora\Turkish Angora_147.jpg,19,19,0.9277,1
+Turkish Angora\Turkish Angora_149.jpg,19,19,0.9204,1
+Turkish Angora\Turkish Angora_153.jpg,19,19,1.0,1
+Turkish Angora\Turkish Angora_175.jpg,19,19,0.9756,1
+Turkish Angora\Turkish Angora_178.jpg,19,19,0.993,1
+Turkish Angora\Turkish Angora_19.jpg,19,19,1.0,1
+Turkish Angora\Turkish Angora_191.jpg,19,19,0.9995,1
+Turkish Angora\Turkish Angora_193.jpg,19,19,0.9263,1
+Turkish Angora\Turkish Angora_212.jpg,19,19,0.993,1
+Turkish Angora\Turkish Angora_220.jpg,19,19,0.9634,1
+Turkish Angora\Turkish Angora_23.jpg,19,19,0.943,1
+Turkish Angora\Turkish Angora_240.jpg,19,3,0.5483,0
+Turkish Angora\Turkish Angora_242.jpg,19,19,0.999,1
+Turkish Angora\Turkish Angora_243.jpg,19,19,1.0,1
+Turkish Angora\Turkish Angora_252.jpg,19,19,0.926,1
+Turkish Angora\Turkish Angora_26.jpg,19,10,0.8955,0
+Turkish Angora\Turkish Angora_261.jpg,19,19,0.9946,1
+Turkish Angora\Turkish Angora_265.jpg,19,10,0.9688,0
+Turkish Angora\Turkish Angora_267.jpg,19,19,0.996,1
+Turkish Angora\Turkish Angora_268.jpg,19,1,0.4983,0
+Turkish Angora\Turkish Angora_276.jpg,19,1,0.9,0
+Turkish Angora\Turkish Angora_28.jpg,19,19,0.999,1
+Turkish Angora\Turkish Angora_283.jpg,19,19,0.9854,1
+Turkish Angora\Turkish Angora_285.jpg,19,1,0.721,0
+Turkish Angora\Turkish Angora_287.jpg,19,19,0.918,1
+Turkish Angora\Turkish Angora_295.jpg,19,19,0.999,1
+Turkish Angora\Turkish Angora_307.jpg,19,19,0.9585,1
+Turkish Angora\Turkish Angora_31.jpg,19,14,0.5454,0
+Turkish Angora\Turkish Angora_310.jpg,19,6,0.6353,0
+Turkish Angora\Turkish Angora_331.jpg,19,19,0.4373,1
+Turkish Angora\Turkish Angora_341.jpg,19,12,0.9873,0
+Turkish Angora\Turkish Angora_345.jpg,19,1,0.556,0
+Turkish Angora\Turkish Angora_36.jpg,19,19,0.8423,1
+Turkish Angora\Turkish Angora_46.jpg,19,19,0.821,1
+Turkish Angora\Turkish Angora_47.jpg,19,19,0.96,1
+Turkish Angora\Turkish Angora_5.jpg,19,19,1.0,1
+Turkish Angora\Turkish Angora_53.jpg,19,19,0.9907,1
+Turkish Angora\Turkish Angora_55.jpg,19,19,0.5024,1
+Turkish Angora\Turkish Angora_56.jpg,19,19,0.966,1
+Turkish Angora\Turkish Angora_58.jpg,19,19,0.9736,1
+Turkish Angora\Turkish Angora_61.jpg,19,1,0.787,0
+Turkish Angora\Turkish Angora_62.jpg,19,1,0.8447,0
+Turkish Angora\Turkish Angora_69.jpg,19,19,0.963,1
+Turkish Angora\Turkish Angora_77.jpg,19,19,0.9966,1
+Turkish Angora\Turkish Angora_79.jpg,19,19,0.9736,1
+Turkish Angora\Turkish Angora_87.jpg,19,19,0.84,1
+Turkish Angora\Turkish Angora_91.jpg,19,11,0.4116,0
